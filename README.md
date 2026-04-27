@@ -34,6 +34,7 @@ This project transforms raw HR data into actionable strategic insights. By monit
 ### 1️⃣ Overview Page (The Executive Pulse)
 **Purpose:** Monitors the organization's core health through KPIs like Turnover Rate (13%) and Total Headcount.
 ![Overview Page](1000091415.jpg)
+<img width="905" height="470" alt="1000091415" src="https://github.com/user-attachments/assets/eeee92a7-481e-43ba-bfdf-8ff09f2b6091" />
 
 ---
 
